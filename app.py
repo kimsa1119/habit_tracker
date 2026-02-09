@@ -1,4 +1,3 @@
-```python
 # app.py
 # Streamlit "AI 습관 트래커" - single file app
 # Requirements: streamlit, requests, pandas, openai (>=1.0)
@@ -530,4 +529,3 @@ with st.expander("📌 API 안내 / 문제 해결"):
 - 기록은 `st.session_state`에 저장됩니다. 새로고침/세션 종료 시 초기화될 수 있습니다.
 """
     )
-```
